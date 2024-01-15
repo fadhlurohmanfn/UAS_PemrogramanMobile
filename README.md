@@ -6,7 +6,7 @@ Nama    : Fadhlurohman Fatikh Navintino
 Nim     : 312210368
 Kelas   : TI.22.A4
 Dosen   : Donny Maulana, S.Kom., M.M.S.I.
-Link YT : [![UAS](https://img.youtube.com/vi/Gd9qLynNj5Y/0.jpg)](https://youtu.be/Gd9qLynNj5Y?si=3RP6WpyV2mSwqVnb)
+Link YT : https://youtu.be/Gd9qLynNj5Y?si=3RP6WpyV2mSwqVnb
 ```
 
 ## 1. **Splash Launcer**
